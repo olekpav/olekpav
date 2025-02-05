@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @olekpav
 - 👀 I’m interested in datasciense
-- 🌱 I’m currently learning web-analysis
+- 🥜I’m full in web-analysis
+- 🌱I'm currently learning Pyton
 - 📫 telegram: @jolka87 
+
 
 <!---
 olekpav/olekpav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
